@@ -1,0 +1,7 @@
+{
+       "SERVER_PORT": 8081,
+        "ROUTE_VIRTUAL_DIR": "",
+        "java" : "ami-08c171657c59e7edd",
+        "python": "ami-08c171657c59e7edd",
+        "nodejs" : "ami-08c171657c59e7edd"
+}
